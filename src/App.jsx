@@ -669,9 +669,9 @@ function App() {
 >
 
   {/* LOGO LINKEDIN */}
-  <div className="mx-auto flex h-9 w-9 items-center justify-center rounded-md bg-cyan-400 text-lg font-bold text-slate-950 transition duration-300 group-hover:scale-110">
-    in
-  </div>
+<div className="mx-auto flex h-9 w-9 items-center justify-center rounded-md bg-[#0A66C2] text-lg font-bold text-white transition duration-300 group-hover:scale-110">
+  in
+</div>
 
   <h3 className="mt-5 font-bold">
     LinkedIn
@@ -711,9 +711,9 @@ function App() {
 >
 
   {/* LOGO INSTAGRAM */}
-  <div className="mx-auto flex h-9 w-9 items-center justify-center rounded-lg border-2 border-cyan-400 text-sm font-bold text-cyan-400 transition duration-300 group-hover:scale-110">
-    ◎
-  </div>
+<div className="mx-auto flex h-9 w-9 items-center justify-center rounded-lg border-2 border-pink-400 text-sm font-bold text-pink-400 transition duration-300 group-hover:scale-110">
+  ◎
+</div>
 
   <h3 className="mt-5 font-bold">
     Instagram
